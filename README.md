@@ -1,4 +1,7 @@
+<img width="1280" height="400" alt="Image" src="https://github.com/user-attachments/assets/5c07bafb-9af7-4beb-977d-636f10ef8fad" />
+
 # CXmath
+
 **Complex Extended Math**  is a C library that allow you to simplify calculations with vectors and complex numbers
 
 The development of CXmath is driven by user feedback. Please report any issue or bug.
