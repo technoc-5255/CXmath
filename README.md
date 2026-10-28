@@ -45,6 +45,9 @@ CXmath is a C compiled library, so installation is simple.
 [Compile your project normally with a C99 or C11 compatible compiler.]:.
 [You just need to add ```-lcxmath``` when compiling]:.
 
+> [!WARNING]
+> Zero division not supported yet for vectors AND complex, avoid dividing by 0
+
 # Documentation
 
 ### Table of content
